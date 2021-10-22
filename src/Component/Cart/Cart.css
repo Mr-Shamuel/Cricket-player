@@ -1,0 +1,65 @@
+.playerName li{
+ float:none;
+ color: red;
+}
+.cart{
+    width:30%;
+
+}
+.playerName li {
+  
+    
+color: rgb(230, 219, 219);
+}
+.playerName ul {
+  display: block;
+}
+.playerDetails{
+    border: 1px solid red;
+    height: 500px;
+  
+}
+
+.playerDetails{
+  position:sticky;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  top: 0;
+  
+  background-color:rgb(151, 163, 197);
+  border-radius:30px;
+  box-shadow: 15px 15px 5px rgb(48, 44, 48);
+  
+  
+}
+
+.playerDetails h1{
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: rgb(95, 10, 67);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.playerDetails h5{
+    text-transform: uppercase;
+    font-weight: bolder;
+    color: rgb(95, 10, 67);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.playerDetails h2{
+    color:red;
+    
+
+}
+.playerDetails h4,h5{
+    font-size: 18px;
+     
+
+}
+
+
+
+
